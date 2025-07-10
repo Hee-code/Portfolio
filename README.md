@@ -17,50 +17,15 @@ HTML과 CSS를 중심으로 학습하며 웹 표준과 접근성의 중요성을
 
 
 # 🛠사용 가능 툴🛠
-<aside>
-<img src="https://prod-files-secure.s3.us-west-2.amazonaws.com/ff4b8b28-a54e-4beb-a320-d534b2894a3b/6a8e0b92-ab55-4a18-a3c8-c9c2b4fda08e/1200px-Adobe_Photoshop_CC_icon.svg.png" alt="https://prod-files-secure.s3.us-west-2.amazonaws.com/ff4b8b28-a54e-4beb-a320-d534b2894a3b/6a8e0b92-ab55-4a18-a3c8-c9c2b4fda08e/1200px-Adobe_Photoshop_CC_icon.svg.png" width="40px" /> Adobe Photoshop
-
-</aside>
-
-<aside>
-<img src="https://prod-files-secure.s3.us-west-2.amazonaws.com/ff4b8b28-a54e-4beb-a320-d534b2894a3b/08283d1e-6731-479f-bd2f-72f1146912fc/741cb5ff6ea9b1daed3d1ba974fdfd0379de9d7624e30e1ea41078744d020adada37b6d5f76206c431c28850b74da8b96c7cc5a74f5106ab87f2c57aa2bfe51ff5a9d2b563e28a1ad80ab667edaf603523af515212fbb0d905ddc0db34d56c42.png" alt="https://prod-files-secure.s3.us-west-2.amazonaws.com/ff4b8b28-a54e-4beb-a320-d534b2894a3b/08283d1e-6731-479f-bd2f-72f1146912fc/741cb5ff6ea9b1daed3d1ba974fdfd0379de9d7624e30e1ea41078744d020adada37b6d5f76206c431c28850b74da8b96c7cc5a74f5106ab87f2c57aa2bfe51ff5a9d2b563e28a1ad80ab667edaf603523af515212fbb0d905ddc0db34d56c42.png" width="40px" /> Adobe illustrator
-
-</aside>
-
-<aside>
-<img src="https://prod-files-secure.s3.us-west-2.amazonaws.com/ff4b8b28-a54e-4beb-a320-d534b2894a3b/8376e09e-2d54-4c88-91e9-48fd37b28843/5968705.png" alt="https://prod-files-secure.s3.us-west-2.amazonaws.com/ff4b8b28-a54e-4beb-a320-d534b2894a3b/8376e09e-2d54-4c88-91e9-48fd37b28843/5968705.png" width="40px" /> Figma
-
-</aside>
-
-<aside>
-<img src="https://prod-files-secure.s3.us-west-2.amazonaws.com/ff4b8b28-a54e-4beb-a320-d534b2894a3b/f7073881-12c7-4e48-aefd-d91aef3858a0/notion.png" alt="https://prod-files-secure.s3.us-west-2.amazonaws.com/ff4b8b28-a54e-4beb-a320-d534b2894a3b/f7073881-12c7-4e48-aefd-d91aef3858a0/notion.png" width="40px" /> Notion
-
-</aside>
-
-<aside>
-<img src="notion://custom_emoji/f2d423e4-e0e3-81fe-83e2-00039c8da109/22b423e4-e0e3-8002-a9b3-007a8f3f5dff" alt="notion://custom_emoji/f2d423e4-e0e3-81fe-83e2-00039c8da109/22b423e4-e0e3-8002-a9b3-007a8f3f5dff" width="40px" /> HTML5
-
-</aside>
-
-<aside>
-<img src="notion://custom_emoji/f2d423e4-e0e3-81fe-83e2-00039c8da109/22b423e4-e0e3-8031-a4dd-007a3876cec8" alt="notion://custom_emoji/f2d423e4-e0e3-81fe-83e2-00039c8da109/22b423e4-e0e3-8031-a4dd-007a3876cec8" width="40px" /> CSS3
-
-</aside>
-
-<aside>
-<img src="notion://custom_emoji/f2d423e4-e0e3-81fe-83e2-00039c8da109/22b423e4-e0e3-8031-8981-007a5de28e7f" alt="notion://custom_emoji/f2d423e4-e0e3-81fe-83e2-00039c8da109/22b423e4-e0e3-8031-8981-007a5de28e7f" width="40px" /> jQuery
-
-</aside>
-
-<aside>
-<img src="notion://custom_emoji/f2d423e4-e0e3-81fe-83e2-00039c8da109/22b423e4-e0e3-8055-9e87-007a5ee2c03b" alt="notion://custom_emoji/f2d423e4-e0e3-81fe-83e2-00039c8da109/22b423e4-e0e3-8055-9e87-007a5ee2c03b" width="40px" /> JavaScript
-
-</aside>
-
-<aside>
-<img src="notion://custom_emoji/f2d423e4-e0e3-81fe-83e2-00039c8da109/22c423e4-e0e3-8057-9613-007a116c3d73" alt="notion://custom_emoji/f2d423e4-e0e3-81fe-83e2-00039c8da109/22c423e4-e0e3-8057-9613-007a116c3d73" width="40px" /> Swiper
-
-</aside>
+Photoshop
+Illustrator
+Figma
+HTML5
+CSS3
+jQuery
+JavaScript
+Swiper
+Notion
 
 
 # 📝프로젝트
