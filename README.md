@@ -17,15 +17,7 @@ HTML과 CSS를 중심으로 학습하며 웹 표준과 접근성의 중요성을
 
 
 # 🛠사용 가능 툴🛠
-Photoshop
-Illustrator
-Figma
-HTML5
-CSS3
-jQuery
-JavaScript
-Swiper
-Notion
+Photoshop, Illustrator, Figma, HTML5, CSS3, jQuery, JavaScript, Swiper, Notion
 
 
 # 📝프로젝트
