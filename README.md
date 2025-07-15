@@ -29,7 +29,6 @@ Photoshop, Illustrator, Figma, HTML5, CSS3, jQuery, JavaScript, Swiper, Notion
 - 개인 프로젝트
 - 기간 : 2주
 - 사용 툴 : HTML5, CSS3, jQuery, Swiper
-(이미지)
 
 **👉 https://hee-code.github.io/pokeallday/**
   
@@ -45,7 +44,6 @@ TOM N TOMS 공식 사이트 리뉴얼 (메뉴, 마이 탐 작업)
 - 팀 프로젝트 (2인)
 - 기간 : 4주
 - 사용 툴 : Photoshop, Illustrator, HTML5, CSS3, jQuery, Figma
-(이미지)
 
 **👉 https://hee-code.github.io/tomntoms/**
 
@@ -63,7 +61,6 @@ TOM N TOMS 공식 사이트 리뉴얼 (메뉴, 마이 탐 작업)
 - 개인 프로젝트
 - 기간 : 2주
 - 사용 툴 : Photoshop, HTML5, CSS3, jQuery, JavaScript, Swiper
-(이미지)
 
 **👉 https://hee-code.github.io/etude/**
 
@@ -81,7 +78,6 @@ TOM N TOMS 공식 사이트 리뉴얼 (메뉴, 마이 탐 작업)
 - 백엔드 협업 프로젝트
 - 기간 : 6주
 - 사용 툴 : Photoshop, HTML5, CSS3, jQuery, JavaScript, Figma, Swiper
-(이미지)
 
 **👉 https://hee-code.github.io/project_onsil/**
 
@@ -99,7 +95,6 @@ TOM N TOMS 공식 사이트 리뉴얼 (메뉴, 마이 탐 작업)
 - 개인 프로젝트
 - 기간 : 1주
 - 사용 툴 : HTML5, CSS3, Swiper
-(이미지)
 
 **👉 https://hee-code.github.io/homesool/**
 
