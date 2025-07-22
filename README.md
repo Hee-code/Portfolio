@@ -43,6 +43,8 @@ HTML과 CSS의 구조적 설계 능력 향상과 함께, jQuery를 활용한 동
 
 ### 2. 탐앤탐스
 TOM N TOMS 공식 사이트 리뉴얼 (메뉴, 마이 탐 작업)
+
+![탐앤탐스](images/tomntoms_main.png)
 - 팀 프로젝트 (2인)
 - 기간 : 4주
 - 사용 툴 : Photoshop, Illustrator, HTML5, CSS3, jQuery, Figma
@@ -60,6 +62,8 @@ TOM N TOMS 공식 사이트 리뉴얼 (메뉴, 마이 탐 작업)
 
 ### 3. 에뛰드
 에뛰드 공식 사이트 리뉴얼
+
+![에뛰드](images/etude.png)
 - 개인 프로젝트
 - 기간 : 2주
 - 사용 툴 : Photoshop, HTML5, CSS3, jQuery, JavaScript, Swiper
@@ -77,6 +81,8 @@ TOM N TOMS 공식 사이트 리뉴얼 (메뉴, 마이 탐 작업)
 
 ### 4. 온실
 꽃 정기구독 사이트 제작 (메인 페이지 작업)
+
+![온실](images/onsil_main.png)
 - 백엔드 협업 프로젝트
 - 기간 : 6주
 - 사용 툴 : Photoshop, HTML5, CSS3, jQuery, JavaScript, Figma, Swiper
@@ -94,6 +100,8 @@ TOM N TOMS 공식 사이트 리뉴얼 (메뉴, 마이 탐 작업)
 
 ### 5. 홈술닷컴
 홈술닷컴 공식 사이트 리뉴얼
+
+![홈술닷컴](images/homesool.png)
 - 개인 프로젝트
 - 기간 : 1주
 - 사용 툴 : HTML5, CSS3, Swiper
