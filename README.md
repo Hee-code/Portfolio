@@ -26,7 +26,7 @@ Photoshop, Illustrator, Figma, HTML5, CSS3, jQuery, JavaScript, Swiper, React, B
 
 ### 1. 포케올데이
 포케올데이 공식 사이트 클론 코딩
-![포케올데이](../images/pokeallday.png)
+![포케올데이](images/pokeallday.png)
 - 개인 프로젝트
 - 기간 : 2주
 - 사용 툴 : HTML5, CSS3, jQuery, Swiper
