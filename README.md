@@ -63,7 +63,7 @@ TOM N TOMS 공식 사이트 리뉴얼 (메뉴, 마이 탐 작업)
 
 ![에뛰드](images/etude.png)
 - 개인 프로젝트
-- 기간 : 2주
+- 기간 : 5일일
 - 사용 툴 : Photoshop, HTML5, CSS3, jQuery, JavaScript, Swiper
 - 링크 : https://hee-code.github.io/etude/
 
@@ -99,7 +99,7 @@ TOM N TOMS 공식 사이트 리뉴얼 (메뉴, 마이 탐 작업)
 
 ![홈술닷컴](images/homesool.png)
 - 개인 프로젝트
-- 기간 : 1주
+- 기간 : 3일
 - 사용 툴 : HTML5, CSS3, Swiper
 - 링크 : https://hee-code.github.io/homesool/
 
