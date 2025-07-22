@@ -31,8 +31,7 @@ Photoshop, Illustrator, Figma, HTML5, CSS3, jQuery, JavaScript, Swiper, React, B
 - 개인 프로젝트
 - 기간 : 2주
 - 사용 툴 : HTML5, CSS3, jQuery, Swiper
-
-**👉 https://hee-code.github.io/pokeallday/**
+- 링크 : https://hee-code.github.io/pokeallday/
   
 포케올데이는 실제 서비스 중인 브랜드로, 감각적인 디자인과 직관적인 UI/UX를 갖춘 사이트입니다.
 
@@ -48,8 +47,7 @@ TOM N TOMS 공식 사이트 리뉴얼 (메뉴, 마이 탐 작업)
 - 팀 프로젝트 (2인)
 - 기간 : 4주
 - 사용 툴 : Photoshop, Illustrator, HTML5, CSS3, jQuery, Figma
-
-**👉 https://hee-code.github.io/tomntoms/**
+- 링크 : https://hee-code.github.io/tomntoms/
 
 기존 탐앤탐스 공식 웹사이트는 브랜드 이미지에 비해 전체적인 UI와 정보 구조가 낡고 복잡한 느낌을 주고 있었습니다.
 
