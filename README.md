@@ -65,8 +65,7 @@ TOM N TOMS 공식 사이트 리뉴얼 (메뉴, 마이 탐 작업)
 - 개인 프로젝트
 - 기간 : 2주
 - 사용 툴 : Photoshop, HTML5, CSS3, jQuery, JavaScript, Swiper
-
-**👉 https://hee-code.github.io/etude/**
+- 링크 : https://hee-code.github.io/etude/
 
 에뛰드는 통통 튀는 색감이 눈에 띄는 밝고 화려한 브랜드입니다.
 
@@ -84,8 +83,7 @@ TOM N TOMS 공식 사이트 리뉴얼 (메뉴, 마이 탐 작업)
 - 백엔드 협업 프로젝트
 - 기간 : 6주
 - 사용 툴 : Photoshop, HTML5, CSS3, jQuery, JavaScript, Figma, Swiper
-
-**👉 https://hee-code.github.io/project_onsil/**
+- 링크 : https://hee-code.github.io/project_onsil/
 
 기존의 화훼 관련 사이트들이 단순 판매만 하는 것과 달리, 감성적인 브랜드 이미지를 중심으로 꽃을 정기구독하는 형태의 온라인 서비스를 직접 기획하고 제작하였습니다.
 
@@ -103,8 +101,7 @@ TOM N TOMS 공식 사이트 리뉴얼 (메뉴, 마이 탐 작업)
 - 개인 프로젝트
 - 기간 : 1주
 - 사용 툴 : HTML5, CSS3, Swiper
-
-**👉 https://hee-code.github.io/homesool/**
+- 링크 : https://hee-code.github.io/homesool/
 
 홈술닷컴은 다양한 전통주와 주류를 판매하는 실제 쇼핑몰 사이트입니다.
 
@@ -119,14 +116,12 @@ JavaScript만을 사용해 제작한 간단한 프로젝트 입니다.
 ### 1. To-Do List
 - 개인 프로젝트
 - 사용 툴 : HTML5, CSS3, JavaScript
-  
-**👉 https://hee-code.github.io/to-do-list/**
+- 링크 : https://hee-code.github.io/to-do-list/
 
 ### 2. 카드 뒤집기 게임
 - 개인 프로젝트
 - 사용 툴 : HTML5, CSS3, JavaScript
-  
-**👉 https://hee-code.github.io/card/**
+- 링크 : https://hee-code.github.io/card/
 
 
 # Contact
